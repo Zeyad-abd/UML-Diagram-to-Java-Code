@@ -40,7 +40,3 @@ This program converts UML class diagrams in JSON format into Java source code, s
 - **Complex Inheritance**: Only single inheritance is handled.
 - **Static Members**: Not supported.
 - **Access Modifiers**: All classes are assumed public.
-
-## Authors
-
-- **Zeyad** and **Abdurrahim**
